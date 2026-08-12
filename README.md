@@ -54,7 +54,7 @@ Save each figure as an image (e.g. PNG) in an `images/` folder in the repo, then
 
 | Figure | Description | Suggested filename |
 |---|---|---|
-| Fig. 1 | Scatter plots of each single predictor (WSP, MASS, AGE, SPD, HID) vs. FHO, with fitted regression line and R²/RMSE. | `images/fig1_single_variable_scatter.png` |
+| Fig. 1 | Scatter plots of each single predictor (WSP, MASS, AGE, SPD, HID) vs. FHO, with fitted regression line and R²/RMSE. | <img width="5364" height="3562" alt="single_variable_regression" src="https://github.com/user-attachments/assets/71528050-d642-4fbb-a020-3569a1689479" /> |
 | Fig. 2 | Bar chart of mean FHO by species (Dragon, Hydra, Wyvern) with error bars. | `images/fig2_fho_by_species.png` |
 | Fig. 3 | Comparison of the five multiple regression models: Test R² (left) and overfitting gap (right). | `images/fig3_model_comparison.png` |
 | Fig. 4 | Standardised regression coefficients for Model 1 (All Numeric), showing relative predictor importance. | `images/fig4_standardised_coefficients.png` |
