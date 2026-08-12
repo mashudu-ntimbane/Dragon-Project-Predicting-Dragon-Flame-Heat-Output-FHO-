@@ -1,6 +1,6 @@
 # Dragon Project: Predicting Dragon Flame Heat Output (FHO)
 
-Regression analysis project for **COMS4048A/COMS7063A – Data Analysis and Exploration / Statistical Foundations of Data Science**, University of the Witwatersrand.
+Regression analysis project for **COMS4048A/COMS7063A – Data Analysis and Exploration / Statistical Foundations of Data Science**
 
 ## Overview
 
