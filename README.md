@@ -60,20 +60,13 @@ Save each figure as an image (e.g. PNG) in an `images/` folder in the repo, then
 | Fig. 4 | Standardised regression coefficients for Model 1 (All Numeric), showing relative predictor importance. | <img width="4470" height="1764" alt="coefficient_interpretation" src="https://github.com/user-attachments/assets/be60ce75-5d52-469e-800c-5f36c947edfd" />|
 | Fig. 5 | Residual diagnostic plots for the recommended model: residuals vs. fitted, Q-Q plot, scale-location, actual vs. predicted, and residuals vs. individual predictors. | <img width="3985" height="3083" alt="comprehensive_diagnostics" src="https://github.com/user-attachments/assets/068411ea-7c19-411d-9a02-0d023063279e" />|
 | Fig. 6 (feature engineering) | Performance comparison of feature-engineered models vs. baseline, plus MASS×WSP interaction and log-transform effect plots. | <img width="4469" height="3550" alt="feature_engineering_analysis" src="https://github.com/user-attachments/assets/8c461f99-8942-4c22-a6e6-e50ed6b32912" /> |
-
-Insert each image below its matching section using standard Markdown, e.g.:
-
-```markdown
-![Single-variable regression scatter plots](images/fig1_single_variable_scatter.png)
-```
-
-Place Fig. 1–2 under **Single Variable Regression**, Fig. 3 under **Multiple Variable Regression**, Fig. 4 under **Interpretability**, Fig. 5 under **Model Evaluation**, and Fig. 6 under **Feature Engineering** (add these section headers above if you expand this README beyond the summary version).
+| Project Summary | Model Performance and Key results| <img width="4405" height="2572" alt="project_summary" src="https://github.com/user-attachments/assets/b197fb18-7bad-4941-94bc-8008a145f52a" />|
 
 ## Repository Contents
 
 - `Dragon_Report.pdf` – Full written report with methodology, figures, and results.
 - `images/` – Plot images referenced above.
-- (Add your notebook/script files here, e.g. `dragon_regression_analysis.ipynb`)
+- `dragon_report.ipynb`
 
 ## Authors
 
