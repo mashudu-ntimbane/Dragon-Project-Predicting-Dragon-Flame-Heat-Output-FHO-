@@ -55,11 +55,11 @@ Save each figure as an image (e.g. PNG) in an `images/` folder in the repo, then
 | Figure | Description | Suggested filename |
 |---|---|---|
 | Fig. 1 | Scatter plots of each single predictor (WSP, MASS, AGE, SPD, HID) vs. FHO, with fitted regression line and R²/RMSE. | <img width="5364" height="3562" alt="single_variable_regression" src="https://github.com/user-attachments/assets/71528050-d642-4fbb-a020-3569a1689479" /> |
-| Fig. 2 | Bar chart of mean FHO by species (Dragon, Hydra, Wyvern) with error bars. | `images/fig2_fho_by_species.png` |
-| Fig. 3 | Comparison of the five multiple regression models: Test R² (left) and overfitting gap (right). | `images/fig3_model_comparison.png` |
-| Fig. 4 | Standardised regression coefficients for Model 1 (All Numeric), showing relative predictor importance. | `images/fig4_standardised_coefficients.png` |
-| Fig. 5 | Residual diagnostic plots for the recommended model: residuals vs. fitted, Q-Q plot, scale-location, actual vs. predicted, and residuals vs. individual predictors. | `images/fig5_residual_diagnostics.png` |
-| Fig. 6 (feature engineering) | Performance comparison of feature-engineered models vs. baseline, plus MASS×WSP interaction and log-transform effect plots. | `images/fig6_feature_engineering_results.png` |
+| Fig. 2 | Bar chart of mean FHO by species (Dragon, Hydra, Wyvern) with error bars. |<img width="2964" height="1764" alt="species_comparison" src="https://github.com/user-attachments/assets/24bab80e-4b87-4b75-999a-a73877a2f8df" /> |
+| Fig. 3 | Comparison of the five multiple regression models: Test R² (left) and overfitting gap (right). |<img width="4464" height="1464" alt="multiple_regression_comparison" src="https://github.com/user-attachments/assets/3f45017e-906b-4da3-a7ee-ab1ff51c281c" />|
+| Fig. 4 | Standardised regression coefficients for Model 1 (All Numeric), showing relative predictor importance. | <img width="4470" height="1764" alt="coefficient_interpretation" src="https://github.com/user-attachments/assets/be60ce75-5d52-469e-800c-5f36c947edfd" />|
+| Fig. 5 | Residual diagnostic plots for the recommended model: residuals vs. fitted, Q-Q plot, scale-location, actual vs. predicted, and residuals vs. individual predictors. | <img width="3985" height="3083" alt="comprehensive_diagnostics" src="https://github.com/user-attachments/assets/068411ea-7c19-411d-9a02-0d023063279e" />|
+| Fig. 6 (feature engineering) | Performance comparison of feature-engineered models vs. baseline, plus MASS×WSP interaction and log-transform effect plots. | <img width="4469" height="3550" alt="feature_engineering_analysis" src="https://github.com/user-attachments/assets/8c461f99-8942-4c22-a6e6-e50ed6b32912" /> |
 
 Insert each image below its matching section using standard Markdown, e.g.:
 
